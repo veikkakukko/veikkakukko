@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**veikkakukko/veikkakukko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**veikkakukko/veikkakukko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+I'm Veikka Kukko, a 3rd year student in Computer Science (at UEF, Kuopio). 
+I'm passionate about programming electronics, embedded systems, robotics and such. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills 
+- Programming: Java, Python, (JavaScript, HTML, CSS)
+
+## 🛠️ Projects
+- **[Cottage reservation system](https://github.com/Orofil/oti-projekti)**: A cottage reservation system programmed with three of my classmates using Java. The coursework on a software development course. I made the user interface.
+- **[Maze-solving robot](https://github.com/veikkakukko/mazeRobot)**: The coursework on a robotics course at the School of Computing (UEF). My friends and I built and programmed a maze-solving robot.
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/veikkakukko/)
+
